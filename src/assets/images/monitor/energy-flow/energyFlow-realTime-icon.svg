@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0001</title>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="概览_全屋备电+秒级刷新01（并网）" transform="translate(-692.000000, -388.000000)">
+            <g id="DPButton" transform="translate(680.000000, 382.000000)">
+                <g id="0001" transform="translate(12.000000, 6.000000)">
+                    <rect id="矩形" fill-opacity="0" fill="#000000" x="0" y="0" width="16" height="16"></rect>
+                    <circle id="椭圆形" stroke-opacity="0.600000024" stroke="#000000" cx="8.00004101" cy="8.00065136" r="6.16666698"></circle>
+                    <circle id="椭圆形" fill-opacity="0.600000024" fill="#000000" fill-rule="nonzero" cx="8" cy="8" r="2.5"></circle>
+                    <circle id="椭圆形" stroke-opacity="0.600000024" stroke="#000000" stroke-width="0.74999994" cx="8" cy="8" r="2.12500003"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

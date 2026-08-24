@@ -442,7 +442,6 @@ export default {
         const data = response.data || response || {};
         const seconds = data.sessionSeconds || this.sessionControl.sessionSeconds || 0;
         const syncMessage = String(data.syncMessage || `平台实时同步写入 ${data.syncAffectedRows || 0} 条`)
-          .replace(/openems/gi, "平台")
           .replace(/\bedge\b/gi, "控制器");
         if (data.syncStatus && data.syncStatus !== "SUCCESS") {
           this.$modal.msgWarning(`实时能量流已开启，持续 ${seconds} 秒；${syncMessage}`);

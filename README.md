@@ -33,6 +33,25 @@ GOEMS 基于 MIT 协议发布，代码全开源无加密、可免费商用，适
 
 ---
 
+## 系统演示
+
+在线演示：https://ems-pc.huizhidata.com/login?redirect=%2Fems-home%2Flist
+
+演示环境权限开放，请勿随意删除数据。本地启动体验见下方「快速开始」，启动后可通过 Swagger 在线查看与调试接口。
+
+<p align="center">
+    <img src="./doc/readme/wo.png" alt="扫码加微信交流">
+</p>
+
+## 📚 项目资料
+
+- 在线文档：https://ems-doc.huizhidata.com/   （使用文档 / 接口文档）
+- 后端仓库：https://github.com/roinli/GOEMS-cloud  （后端源码与完整 README）
+- Swagger 接口文档：部署后端后访问各服务 `/swagger-ui.html` 在线查看
+
+
+---
+
 ### 核心功能
 
 #### 能源驾驶舱
@@ -114,22 +133,6 @@ src/
 ```
 
 ---
-
-## 系统演示
-
-在线演示：https://ems-pc.huizhidata.com/login?redirect=%2Fems-home%2Flist
-
-演示环境权限开放，请勿随意删除数据。本地启动体验见下方「快速开始」，启动后可通过 Swagger 在线查看与调试接口。
-
-<p align="center">
-    <img src="./doc/readme/wo.png" alt="扫码加微信交流">
-</p>
-
-## 📚 项目资料
-
-- 在线文档：https://ems-doc.huizhidata.com/   （使用文档 / 接口文档）
-- 后端仓库：https://github.com/roinli/GOEMS-cloud  （后端源码与完整 README）
-- Swagger 接口文档：部署后端后访问各服务 `/swagger-ui.html` 在线查看
 
 ## 快速开始
 

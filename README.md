@@ -43,6 +43,11 @@ GOEMS 基于 MIT 协议发布，代码全开源无加密、可免费商用，适
     <img src="./doc/readme/wo.png" alt="扫码加微信交流">
 </p>
 
+### 🖥 +v:18601938676 如果您也对开源感兴趣，欢迎加入群 ,加群请注明原因，开源、共享、共赢永远是主旋律。
+
+
+![输入图片说明](doc/huizhi/images/我的.png)
+
 ## 📚 项目资料
 
 - 在线文档：https://ems-doc.huizhidata.com/   （使用文档 / 接口文档）
